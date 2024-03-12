@@ -818,7 +818,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 12800000, guid: 6ce018627c02f5943b6169e184fb153d, type: 3}
-    m_FontSize: 75
+    m_FontSize: 48
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 7
@@ -829,7 +829,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: AAA 2D GAME
+  m_Text: Cherry Chase Adventure
 --- !u!222 &2135034912
 CanvasRenderer:
   m_ObjectHideFlags: 0
